@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\HloWrld\HloWrld\bin\Debug\HloWrld.exe.config
+C:\Users\Administrator\source\repos\HloWrld\HloWrld\bin\Debug\HloWrld.exe
+C:\Users\Administrator\source\repos\HloWrld\HloWrld\bin\Debug\HloWrld.pdb
+C:\Users\Administrator\source\repos\HloWrld\HloWrld\obj\Debug\HloWrld.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\HloWrld\HloWrld\obj\Debug\HloWrld.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HloWrld\HloWrld\obj\Debug\HloWrld.exe
+C:\Users\Administrator\source\repos\HloWrld\HloWrld\obj\Debug\HloWrld.pdb
